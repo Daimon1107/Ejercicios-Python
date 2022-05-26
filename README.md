@@ -11,7 +11,7 @@ Los datos serán:
   - Edad (tipo de dato int)
   - True / False (tipo booleano) (True para vacunas al día, False sin vacunas
   - Peso (tipo float) en kg
-  - 
+  
 Los parámetros son ingresados en cualquier orden, por ejemplo
 
 	Hospital_Veterinario=[[‘Roky’, True ,10.5 , 3], [5, ’Luna’, False, 5.4],[False, 4.8, ‘Firulais’, 2],[3, 12.5 , ‘Quesito’, True]]
