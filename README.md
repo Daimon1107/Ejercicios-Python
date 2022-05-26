@@ -2,7 +2,7 @@
 
 Diferentes ejercicios de python 
 
-#Ejercicio 1 
+#EJERCICIO 1
 
 
 En una tienda de reparación de computadores el dueño de la empresa necesita un sistema que le permita ingresar los datos del cliente o equipo y realizar búsquedas. Crear un programa con un menú de 3 opciones: 1. Buscar información, 2. Ingresar nueva Información3. Salir.
