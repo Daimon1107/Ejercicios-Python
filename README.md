@@ -2,6 +2,45 @@
 
 Diferentes ejercicios de python 
 
+#Ejercicio 1 
+
+
+En una tienda de reparación de computadores el dueño de la empresa necesita un sistema que le permita ingresar los datos del cliente o equipo y realizar búsquedas. Crear un programa con un menú de 3 opciones: 1. Buscar información, 2. Ingresar nueva Información3. Salir.
+
+En la opción de Ingresar se deberá ir creando en registro la siguiente información: Nombre, Apellido, Marca de computador, Ciudad de residencia del cliente, tamaño del computador (en pulgadas).
+
+En la función Buscar, se debe pedir al usuario que ingrese un parámetro para ingresar ya sea (nombre, apellido, marca del computador, ciudad de residencia, tamaño). El resultado de la búsqueda deberá ser todo el registro del cliente que coincida con el parámetro ingresado.
+
+El menú principal debe repetirse hasta que el usuario seleccione la opción Salir.
+
+Ejemplo:
+
+Cliente1: Maria, Acosta, HP, Quito, 14
+
+Cliente 2: Juan, Bautista,lenovo,Pelileo,13
+
+Cliente 3: Fernando, Gavilanes, HP, 13
+
+Cliente 4: Maria, Solis, hacer, Ambato,15
+
+Parámetro de búsqueda: 13
+
+Resultado:
+
+               Cliente 2: Juan, Bautista, Lenovo, Pelileo,13
+
+Cliente 3: Fernando, Gavilanes, HP, 13
+
+Parámetro de búsqueda: Maria
+
+Resultado:
+
+               Cliente1: Maria, Acosta, HP, Quito, 14
+
+               Cliente 4: Maria, Solis, hacer, Ambato,15
+
+
+
 #EJERCICIO 3
 
 Realizar un programa para ingresar por teclado  listas dentro de una lista principal con los datos de 4  mascotas de un hospital. 
