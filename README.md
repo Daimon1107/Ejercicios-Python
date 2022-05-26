@@ -14,11 +14,11 @@ Los datos serán:
   - 
 Los parámetros son ingresados en cualquier orden, por ejemplo
 
-Hospital_Veterinario=[[‘Roky’, True ,10.5 , 3], [5, ’Luna’, False, 5.4],[False, 4.8, ‘Firulais’, 2],[3, 12.5 , ‘Quesito’, True]]
+	Hospital_Veterinario=[[‘Roky’, True ,10.5 , 3], [5, ’Luna’, False, 5.4],[False, 4.8, ‘Firulais’, 2],[3, 12.5 , ‘Quesito’, True]]
 
 Una vez que se termine de llenar la información, debe devolver la lista con los datos ordenados por:
 
-	1. edad 2. Nombre 3. Peso 4. Vacunas
+1. edad 2. Nombre 3. Peso 4. Vacunas
   
 Se imprimirá la lista con los elementos de la lista anterior que deben estar ordenados desde la mascota con mayor edad hasta la de menor edad
 
